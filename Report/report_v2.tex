@@ -18,7 +18,7 @@
 \begin{document}
 		\section{Abstract} % Numbered section
 	
-	This paper performs a validity test of Fama French three-factor model on the stocks listed in NYSE, NASDAQ and AMEX, i.e. US markets, using period spanning from Jul 2011 – Dec 2018. Monthly stock returns, and 1-month T-bill returns are collected over the period from Jul 2011 – Dec 2018 to construct the monthly excess returns for each of the stocks. The monthly excess returns suggest that larger-sized companies (i.e. Big-sized) have higher excess returns than portfolios containing smaller sized firms on an average. On the other hand, portfolio constructed of low book-to-market ratio firms look to perform better than those constructed of high book-to-market ratio firms. Quintiles of portfolios, i.e. twenty-five portfolios, are constructed in accordance to size and book-to-market ratio to help explain the variations on excess portfolio returns by using market risk factor, size risk factor and book-to-market ratio risk factors. After conducting some analysis and statistical tests, we have arrived at the conclusion that size factor has no effect on portfolios having big-size firms but can explain the excess return variations on portfolios having small and medium-sized firms. On the other hand, book-to-market ratio factor has an effect on portfolios with high book-to-market ratio firms. Therefore, we have concluded that Fama French model only has explanatory power over portfolios of several characteristics, but do not help to explain the whole market as a whole during the period spanning from Jul 2011 – Dec 2018.
+	This paper performs a validity test of Fama French three-factor model on the stocks listed in NYSE, NASDAQ and AMEX, i.e. US markets, using period spanning from July 2011 – December 2018. Monthly stock returns, and 1-month T-bill returns are collected over the period from Jul 2011 – Dec 2018 to construct the monthly excess returns for each of the stocks. The monthly excess returns suggest that larger-sized companies (i.e. Big-sized) have higher excess returns than portfolios containing smaller sized firms on an average. On the other hand, portfolio constructed of low book-to-market ratio firms look to perform better than those constructed of high book-to-market ratio firms. Quintiles, i.e. twenty-five portfolios, are constructed in accordance to size and book-to-market ratio to help explain the variations on excess portfolio returns by using market risk factor, size risk factor and book-to-market ratio risk factors. After conducting some analysis and statistical tests, we have arrived at the conclusion that size factor has no effect on portfolios of big-size firms but can explain the excess return variations on portfolios of small and medium-sized firms. On the other hand, book-to-market ratio factor has an effect on portfolios of high book-to-market ratio firms. Therefore, we have concluded that Fama French model only has explanatory power over portfolios of several characteristics, but do not help to explain the whole market as a whole during the period spanning from Jul 2011 – Dec 2018.
 	
 	
 	\section{Introduction} % Numbered section
@@ -27,7 +27,9 @@
 	
 	\noindent Therefore, Fama and French set this as a motivation, and proceeded to add in another two more risk factors, i.e. difference in the excess returns between Small and Big market capitalization sizes (SMB, Small Minus Big) and difference in the excess returns between High and Low book-to-market (High Minus Low, HML), in the original CAPM hoping to help address any initial anomalies introduced by the former. The results of this paper are encouraging as it proves that Fama and French 3 factor model has much higher explanatory power than the CAPM model but there still exists several drawbacks. The below displays the Fama and French model: \\
 	
-	\noindent $R(t) - R_f(t) = a+ b(R_{mkt} - R_f) + s(SMB) + h(HML) +\epsilon_i$ \\
+	\noindent $$
+	R(t) - R_f(t) = a+ b(R_{mkt} - R_f) + s(SMB) + h(HML) +\epsilon_i
+	$$ \\
 	
 	
 	\noindent In recent times, there have been several motivations to add other risk factors into the original Fama and French model, which Fama and French extending the model by suggested profitability, i.e. RMW (Robust Minus Weak), and investment, i.e. CMA (Conservative Minus Aggressiveness). In addition, there have been several calls by the market to add in risk factors such as momentum and low-volatility as part of the model. \\
@@ -59,7 +61,7 @@
 \subsection{Research Sample}
 \noindent Our data sample includes all the stocks listed on the NYSE, NASDAQ and AMEX for the period between July 2011 to December 2018.And we use monthly data to calculate return.
 \subsection{Data Source: Warton Research Data Services(WRDS)}
-Wharton Research Data Services (WRDS) provides the leading business intelligence, data analytics, and financial research platform to global institutions ̶ enabling comprehensive thought leadership, historical analysis, and insight into the latest innovations in academic research.\\
+Wharton Research Data Services (WRDS) provides the leading business intelligence, data analytics, and financial research platform to global institutions, in which enables comprehensive thought leadership, historical analysis, and insight into the latest innovations in academic research.\\
 And WRDS provides us with the following sub-database which we can utilize:
 \begin{itemize}
 	\item Center for Research in Security Prices(CRSP)
@@ -203,7 +205,24 @@ Given the paradigm shift mentioned in section 1.1 that small firms outperformed 
 In conclusion, we have accomplished our research objective to prove that Fama and French three-factors model does not significantly explain the returns of stocks listed on the NYSE, NASDAQ and AMEX for the period between Jul 2011 – Dec 2018. Together with the market data collected from various sources and statistical significance tests performed, all quintiles, except for Big-Sized portfolios and Low Book-to-Market quintiles, are able to base on this model to explain their returns as seen in the high t-stat values results derived. Size factor, i.e. SMB, proves to be ineffective on Big-Sized portfolios, and the intuition, according to Fama and French, is that the small-cap companies tend to see higher returns than large-cap companies in the long run. On the other hand, Book-to-Market factor, i.e. HML, is found to have no effect on Low Book-to-Market quintiles, in which the intuition is that value companies (high book-to-market ratio) enjoy higher returns than growth companies (low book-to-market ratio) in the long run. Lastly, market risk factor seems to suggest as a significant factor for portfolio returns of all quintiles. Therefore, we can deduce that Fama and French three factor model does have some explanatory power over certain quintiles of certain characteristics but does not explain well for the whole market. \\
 
 
-\noindent In recent times, research has also further encouraged the development of other risk factors such as low-volatility, and momentum risk factors; In order to fit the quintiles better in the future, we could add in more non-collinear risk factors into the original to help explain the returns of the quintiles better going forward. Several statistical techniques can be applied to accomplish that, and machine learning can also help to the discovery of new risk factors as well. However, that is to say that different markets have different characteristics, in which one market model cannot be applied to another.\\
+\noindent In recent times, research has also further encouraged the development of other risk factors such as low-volatility, and momentum risk factors; In order to fit and explain the quintiles better in the future, we could add in more non-collinear risk factors into the original to help explain the returns of the quintiles better going forward. Several statistical techniques can be applied to accomplish that, and machine learning can also help to the discovery of new risk factors as well. All these approaches would allow us to a construct a model to help explain these better, and would be help in future studies.\\
+
+	\section{References} % Numbered section
+	\begin{itemize}
+		\item Markowitz, H. (1952). Portfolio selection. The Journal of Finance, 7(1), 77-91.
+		\item Sharpe, W. (1964). Capital asset prices: A theory of market equilibrium under conditions of risk. Journal of Finance, 19(3), 425-442.
+		\item Lintner, J. (1965). The valuation of risk assets and the selection of risky investments in stock portfolios and capital budgets. Review of Economics and Statistics, 47(1), 12-37.
+		\item Fama, E., \& French, K. (1993). Common risk factors in the returns on stocks and bonds.Journal of Financial Economics, 33(1), 3-56..
+		\item Black, Fischer. Michael C. Jensen. and Myron Scholes. 1971. The capital asset pricing model: Some empirical tests. in: M. Jensen. ed.. Studies In the theory of capital markets (Praeger, New York, NY).
+		\item Fama. Eugene F. and Kenneth R. French. 1992a. The cross-section of expected stock returns.Journal of Finance 47, 427 - 465.
+		\item Banz. Rolf W.. 1981. The relationship between return and market value of common stocks, Journal	of Financial Economics 9. 3-15.
+		\item Bhandari. Laxmi Chand. 1983. Debt,equity ratto and e.xpected common stock returns: Empirical evidence, Journal of Finance 43. 507-528.
+		\item Rosenberg. Barr, Kenneth Reid. and Ronald Lanstein. 1985. Persuasive evidence of market inefficiency.Journal of Portfolio Management Il. 9-17.
+		\item Stattman D (1980): Book values and stock returns. The Chicago MBA: A Journal of Selected Papers,4,25–45. 
+		\item Basu. Sanjoy. 1983. The relationship between earnings yield. market value. and return for NYSE common stocks: Further evidence. Journal of Financial Economics 12, 129-156.
+		\item Daniel, K., \& Titman, S. (1997). Evidence on the characteristics of cross sectional variation in stock returns
+		\item Davis, J., Fama, E.,\& French, K. (2000). Characteristics, covariances and average returns: 1927-97. Journal of Finance, 55(1), 389-406
+	\end{itemize}
 
 
 \end{document}
