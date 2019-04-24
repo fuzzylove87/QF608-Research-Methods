@@ -86,9 +86,25 @@ $$
 \textbf{Rm-Rf}\\
 The excess portfolio return in month t, $(R_{M_t}-R_{f_t})$, is the excess market portfolio return in month t. In this study, we construct our own market portfolio to estimate the market return. When making the market portfolio, we add up market equity data of all the eligible stocks, regarding that we are buying all the stocks in the whole market as a portfolio. And we use the market size changes of this portfolio to calculate the return which is exactly market return $R_m$. Additionally 1-month T-bill rates are used as a proxy for the risk free rate.\\ \\
 \textbf{BE and ME}\\
-We obtained Book Equity (BE) and Market Equity (ME) data from CRSP and Compustat and further more validated it with the data we got from Bloomberg, they matched correspondingly. Then we calculated book-to-market(BE/ME) ratio of each stock and placed all NYSE eligible stocks into three BE/ME group which is high (H), medium (M) and low (L) group based on the breakpoints for the top 30\%, middle 40\% and bottom 30\%. And further more we divided all stocks into five quantile portfolio based on their relative sequence in order to construct our 25 portfolio returns.\\ \\
+We obtained Book Equity (BE) and Market Equity (ME) data from CRSP and Compustat and further more validated it with the data we got from Bloomberg, they matched correspondingly.
+The calculating formula is the following:\\
+
+Market Common Equity (ME) = Market Capitalisation of the Firm at December of time t-1.
+
+Book Equity = Book Value of Common Equity + Book Value of Preferred Stocks
+
+Book Values of Common Equity  = (Total Stockholders’ Equity + Deferred Taxes + Investment Tax Credit – Book Value of Preferred Stock) of the Firm at time t-1.
+
+Book Value of Preferred Stocks = Redemption, Liquidation or Carrying Value of Preferred Stock, in that order, when available.\\
+
+ Then we calculated book-to-market(BE/ME) ratio of each stock and placed all NYSE eligible stocks into three BE/ME group which is high (H), medium (M) and low (L) group based on the breakpoints for the top 30\%, middle 40\% and bottom 30\%. And further more we divided all stocks into five quantile portfolio based on their relative sequence in order to construct our 25 portfolio returns.\\ \\
 \textbf{Size}\\
-Eligible stocks are allocated to two groups which are small or big (S or B),based on whether their market equity(ME) is below or above the median ME for all NYSE stocks each year. And this time we develop the 5 quantile potrfolios for later usage. \\ \\
+Eligible stocks are allocated to two groups which are small or big (S or B), based on whether their market equity(ME) is below or above the median ME for all NYSE stocks each year. And this time we develop the 5 quantile potrfolios for later usage. The calculating formula is like the following: \\ 
+
+Size = Market Capitalisation of the Firm at June of time t
+
+Market Capitalisation = Share Price x Number of Shares Outstanding \\
+
 \textbf{SMB and HML}\\
 \noindent For each month SMB is the difference between the average of the returns on the three small-stock portfolios (S/L, S/M and S/H) and the average of the returns on the three big stock portfolios (B/L, B/M and B/H).
 $$
