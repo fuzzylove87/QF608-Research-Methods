@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.17)  27 APR 2019 16:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.17)  27 APR 2019 19:29
 entering extended mode
-**./report_v3.tex
-(report_v3.tex
+**./report_v5.tex
+(report_v5.tex
 LaTeX2e <2018-04-01> patch level 5
 
 ("C:\Users\Woon Tian Yong\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\arti
@@ -190,7 +190,28 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 )
 \c@caption@flags=\count103
 \c@ContinuedFloat=\count104
-) (report_v3.aux
+) (report_v5.aux
+
+LaTeX Warning: Label `fig:label' multiply defined.
+
+
+LaTeX Warning: Label `fig:label' multiply defined.
+
+
+LaTeX Warning: Label `fig:label' multiply defined.
+
+
+LaTeX Warning: Label `fig:label' multiply defined.
+
+
+LaTeX Warning: Label `fig:label' multiply defined.
+
+
+LaTeX Warning: Label `fig:label' multiply defined.
+
+
+LaTeX Warning: Label `fig:label' multiply defined.
+
 
 LaTeX Warning: Label `fig:label' multiply defined.
 
@@ -207,7 +228,7 @@ LaTeX Warning: Label `fig:label' multiply defined.
 LaTeX Warning: Label `fig:label' multiply defined.
 
 )
-\openout1 = `report_v3.aux'.
+\openout1 = `report_v5.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
@@ -341,252 +362,246 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--22
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
 
  []
 
 [1
 
 {C:/Users/Woon Tian Yong/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 48--50
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--69
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--75
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--78
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--81
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 85--90
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
 
  []
 
 [4]
-
-LaTeX Warning: Command \textendash invalid in math mode on input line 95.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--99
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 102.
-
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 95.
 
 ("C:\Users\Woon Tian Yong\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsc
 mr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 102.
- [5]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 95.
 
-LaTeX Warning: File `1.JPG' not found on input line 120.
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
-
-! Package pdftex.def Error: File `1.JPG' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.120 ...cludegraphics[width=0.5\linewidth]{1.JPG}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+ []
 
 
-LaTeX Warning: File `2.JPG' not found on input line 130.
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
+
+ []
+
+[5]
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 123.
 
 
-! Package pdftex.def Error: File `2.JPG' not found: using draft setting.
+Underfull \hbox (badness 10000) in paragraph at lines 124--127
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.130 ...ludegraphics[width=0.35\linewidth]{2.JPG}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: File `3.JPG' not found on input line 144.
-
-
-! Package pdftex.def Error: File `3.JPG' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.144 ...cludegraphics[width=0.5\linewidth]{3.JPG}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: File `4.JPG' not found on input line 153.
-
-
-! Package pdftex.def Error: File `4.JPG' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.153 ...ludegraphics[width=0.55\linewidth]{4.JPG}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
+ []
 
 [6]
+<A1.png, id=29, 286.06876pt x 59.72313pt>
+File: A1.png Graphic file (type png)
+<use A1.png>
+Package pdftex.def Info: A1.png  used on input line 149.
+(pdftex.def)             Requested size: 215.10219pt x 44.90794pt.
+<A3.png, id=31, 326.21875pt x 106.3975pt>
+File: A3.png Graphic file (type png)
+<use A3.png>
+Package pdftex.def Info: A3.png  used on input line 163.
+(pdftex.def)             Requested size: 239.00406pt x 77.95525pt.
+<A4.png, id=32, 301.125pt x 102.88437pt>
+File: A4.png Graphic file (type png)
+<use A4.png>
+Package pdftex.def Info: A4.png  used on input line 172.
+(pdftex.def)             Requested size: 229.44185pt x 78.39543pt.
+ [7 <./A1.png> <./A3.png> <./A4.png>]
+<A5.png, id=40, 574.64688pt x 558.085pt>
+File: A5.png Graphic file (type png)
+<use A5.png>
+Package pdftex.def Info: A5.png  used on input line 183.
+(pdftex.def)             Requested size: 430.20438pt x 417.81335pt.
 
-LaTeX Warning: File `5.JPG' not found on input line 165.
-
-
-! Package pdftex.def Error: File `5.JPG' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.165 	\includegraphics[width=1\linewidth]{5.JPG}
-                                                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: File `6.JPG' not found on input line 177.
-
-
-! Package pdftex.def Error: File `6.JPG' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.177 	\includegraphics[width=1\linewidth]{6.JPG}
-                                                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
 
  []
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
+[8 <./A5.png>]
+<A6.png, id=45, 570.63188pt x 379.4175pt>
+File: A6.png Graphic file (type png)
+<use A6.png>
+Package pdftex.def Info: A6.png  used on input line 194.
+(pdftex.def)             Requested size: 430.20438pt x 286.04451pt.
+ [9 <./A6.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 
  []
 
-[9] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+
+ []
+
+<SMB01.jpg, id=50, 580.0872pt x 256.3176pt>
+File: SMB01.jpg Graphic file (type jpg)
+<use SMB01.jpg>
+Package pdftex.def Info: SMB01.jpg  used on input line 215.
+(pdftex.def)             Requested size: 430.20438pt x 190.09445pt.
+[10 <./SMB01.jpg>]
+<SMB02.jpg, id=54, 565.1514pt x 256.7994pt>
+File: SMB02.jpg Graphic file (type jpg)
+<use SMB02.jpg>
+Package pdftex.def Info: SMB02.jpg  used on input line 224.
+(pdftex.def)             Requested size: 430.20438pt x 195.48695pt.
+ [11 <./SMB02.jpg>]
+<SMB03.jpg, id=58, 530.48187pt x 335.75438pt>
+File: SMB03.jpg Graphic file (type jpg)
+<use SMB03.jpg>
+Package pdftex.def Info: SMB03.jpg  used on input line 235.
+(pdftex.def)             Requested size: 382.40794pt x 242.0401pt.
+<HML01.jpg, id=59, 581.0508pt x 256.3176pt>
+File: HML01.jpg Graphic file (type jpg)
+<use HML01.jpg>
+Package pdftex.def Info: HML01.jpg  used on input line 246.
+(pdftex.def)             Requested size: 430.20438pt x 189.77765pt.
+ [12 <./SMB03.jpg> <./HML01.jpg>]
+<HML02.jpg, id=63, 565.6332pt x 256.3176pt>
+File: HML02.jpg Graphic file (type jpg)
+<use HML02.jpg>
+Package pdftex.def Info: HML02.jpg  used on input line 255.
+(pdftex.def)             Requested size: 430.20438pt x 194.9481pt.
+<HML03.jpg, id=64, 530.48187pt x 335.75438pt>
+File: HML03.jpg Graphic file (type jpg)
+<use HML03.jpg>
+Package pdftex.def Info: HML03.jpg  used on input line 264.
+(pdftex.def)             Requested size: 382.40794pt x 242.0401pt.
+ [13 <./HML02.jpg> <./HML03.jpg>]
+<UMD01.jpg, id=69, 583.9416pt x 259.2084pt>
+File: UMD01.jpg Graphic file (type jpg)
+<use UMD01.jpg>
+Package pdftex.def Info: UMD01.jpg  used on input line 277.
+(pdftex.def)             Requested size: 430.20438pt x 190.96478pt.
+<UMD02.jpg, id=70, 530.48187pt x 248.42813pt>
+File: UMD02.jpg Graphic file (type jpg)
+<use UMD02.jpg>
+Package pdftex.def Info: UMD02.jpg  used on input line 286.
+(pdftex.def)             Requested size: 382.40794pt x 179.08797pt.
+ [14 <./UMD01.jpg> <./UMD02.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
+
+ []
+
+[15] 
 AED: lastpage setting LastPage
-[10] [11] [12] (report_v3.aux)
+[16] (report_v5.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3861 strings out of 492969
- 60145 string characters out of 3122587
- 135887 words of memory out of 3000000
- 7687 multiletter control sequences out of 15000+200000
- 9084 words of font info for 33 fonts, out of 3000000 for 9000
+ 3917 strings out of 492969
+ 60846 string characters out of 3122587
+ 135888 words of memory out of 3000000
+ 7736 multiletter control sequences out of 15000+200000
+ 8310 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,43p,1570b,263s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,5n,43p,1826b,263s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Woon Tian Yong/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmbx12.pfb><C:/Users/Woon Tian Yong/AppData/Local/Programs/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Woon Tian Yong/AppData/
@@ -598,11 +613,10 @@ iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Woon Tian Yong/App
 Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/User
 s/Woon Tian Yong/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb><C:/Users/Woon Tian Yong/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Woon Tian Yong/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on report_v3.pdf (12 pages, 148208 bytes).
+type1/public/amsfonts/cm/cmti12.pfb>
+Output written on report_v5.pdf (16 pages, 1433447 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
+ 109 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
