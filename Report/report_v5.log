@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.17)  28 APR 2019 15:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.17)  28 APR 2019 22:27
 entering extended mode
 **./report_v5.tex
 (report_v5.tex
@@ -486,49 +486,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--127
  []
 
 [6]
-<A1.png, id=29, 286.06876pt x 59.72313pt>
+<A1.png, id=29, 274.52562pt x 66.74937pt>
 File: A1.png Graphic file (type png)
 <use A1.png>
 Package pdftex.def Info: A1.png  used on input line 149.
-(pdftex.def)             Requested size: 215.10219pt x 44.90794pt.
+(pdftex.def)             Requested size: 219.88693pt x 48.45122pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
 
-<A3.png, id=31, 326.21875pt x 106.3975pt>
+<A3.png, id=32, 342.27875pt x 115.43124pt>
 File: A3.png Graphic file (type png)
 <use A3.png>
 Package pdftex.def Info: A3.png  used on input line 163.
-(pdftex.def)             Requested size: 239.00406pt x 77.95525pt.
-<A4.png, id=32, 301.125pt x 102.88437pt>
+(pdftex.def)             Requested size: 305.9249pt x 98.3072pt.
+<A4.png, id=34, 342.27875pt x 114.4275pt>
 File: A4.png Graphic file (type png)
 <use A4.png>
 Package pdftex.def Info: A4.png  used on input line 172.
-(pdftex.def)             Requested size: 229.44185pt x 78.39543pt.
+(pdftex.def)             Requested size: 305.9249pt x 97.38844pt.
 [7 <./A1.png> <./A3.png> <./A4.png>]
-<A5.png, id=40, 574.64688pt x 558.085pt>
+<A5.png, id=46, 586.69188pt x 619.31375pt>
 File: A5.png Graphic file (type png)
 <use A5.png>
-Package pdftex.def Info: A5.png  used on input line 183.
-(pdftex.def)             Requested size: 430.20438pt x 417.81335pt.
+Package pdftex.def Info: A5.png  used on input line 185.
+(pdftex.def)             Requested size: 420.64948pt x 444.35861pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--188
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
 
  []
 
 [8 <./A5.png>]
-<A6.png, id=45, 570.63188pt x 379.4175pt>
+<A6.png, id=53, 586.69188pt x 422.57875pt>
 File: A6.png Graphic file (type png)
 <use A6.png>
-Package pdftex.def Info: A6.png  used on input line 194.
-(pdftex.def)             Requested size: 430.20438pt x 286.04451pt.
+Package pdftex.def Info: A6.png  used on input line 196.
+(pdftex.def)             Requested size: 420.64948pt x 301.34663pt.
  [9 <./A6.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 205--206
 
  []
@@ -538,63 +533,97 @@ Underfull \hbox (badness 10000) in paragraph at lines 207--208
 
  []
 
-<SMB01.jpg, id=50, 580.0872pt x 256.3176pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+
+ []
+
+<SMB01.jpg, id=60, 580.569pt x 256.3176pt>
 File: SMB01.jpg Graphic file (type jpg)
 <use SMB01.jpg>
-Package pdftex.def Info: SMB01.jpg  used on input line 215.
-(pdftex.def)             Requested size: 430.20438pt x 190.09445pt.
+Package pdftex.def Info: SMB01.jpg  used on input line 217.
+(pdftex.def)             Requested size: 396.7476pt x 172.05359pt.
 [10 <./SMB01.jpg>]
-<SMB02.jpg, id=54, 565.1514pt x 256.7994pt>
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+
+ []
+
+<SMB02.jpg, id=66, 565.6332pt x 256.3176pt>
 File: SMB02.jpg Graphic file (type jpg)
 <use SMB02.jpg>
-Package pdftex.def Info: SMB02.jpg  used on input line 224.
-(pdftex.def)             Requested size: 430.20438pt x 195.48695pt.
- [11 <./SMB02.jpg>]
-<SMB03.jpg, id=58, 530.48187pt x 335.75438pt>
+Package pdftex.def Info: SMB02.jpg  used on input line 230.
+(pdftex.def)             Requested size: 396.7476pt x 176.66426pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+
+ []
+
+[11 <./SMB02.jpg>]
+<SMB03.jpg, id=72, 574.145pt x 369.88188pt>
 File: SMB03.jpg Graphic file (type jpg)
 <use SMB03.jpg>
-Package pdftex.def Info: SMB03.jpg  used on input line 235.
-(pdftex.def)             Requested size: 382.40794pt x 242.0401pt.
-<HML01.jpg, id=59, 581.0508pt x 256.3176pt>
+Package pdftex.def Info: SMB03.jpg  used on input line 243.
+(pdftex.def)             Requested size: 430.20438pt x 274.98817pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+
+ []
+
+<HML01.jpg, id=74, 581.5326pt x 256.3176pt>
 File: HML01.jpg Graphic file (type jpg)
 <use HML01.jpg>
-Package pdftex.def Info: HML01.jpg  used on input line 246.
-(pdftex.def)             Requested size: 430.20438pt x 189.77765pt.
- [12 <./SMB03.jpg> <./HML01.jpg>]
-<HML02.jpg, id=63, 565.6332pt x 256.3176pt>
+Package pdftex.def Info: HML01.jpg  used on input line 254.
+(pdftex.def)             Requested size: 396.7476pt x 171.76187pt.
+[12 <./SMB03.jpg> <./HML01.jpg>]
+<HML02.jpg, id=81, 565.6332pt x 256.3176pt>
 File: HML02.jpg Graphic file (type jpg)
 <use HML02.jpg>
-Package pdftex.def Info: HML02.jpg  used on input line 255.
-(pdftex.def)             Requested size: 430.20438pt x 194.9481pt.
-<HML03.jpg, id=64, 530.48187pt x 335.75438pt>
+Package pdftex.def Info: HML02.jpg  used on input line 265.
+(pdftex.def)             Requested size: 382.40794pt x 170.27675pt.
+<HML03.jpg, id=83, 574.145pt x 369.88188pt>
 File: HML03.jpg Graphic file (type jpg)
 <use HML03.jpg>
-Package pdftex.def Info: HML03.jpg  used on input line 264.
-(pdftex.def)             Requested size: 382.40794pt x 242.0401pt.
+Package pdftex.def Info: HML03.jpg  used on input line 274.
+(pdftex.def)             Requested size: 430.20438pt x 274.98817pt.
  [13 <./HML02.jpg> <./HML03.jpg>]
-<UMD01.jpg, id=69, 583.9416pt x 259.2084pt>
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
+
+ []
+
+<UMD01.jpg, id=91, 581.5326pt x 256.3176pt>
 File: UMD01.jpg Graphic file (type jpg)
 <use UMD01.jpg>
-Package pdftex.def Info: UMD01.jpg  used on input line 277.
-(pdftex.def)             Requested size: 430.20438pt x 190.96478pt.
-<UMD02.jpg, id=70, 530.48187pt x 248.42813pt>
+Package pdftex.def Info: UMD01.jpg  used on input line 289.
+(pdftex.def)             Requested size: 396.7476pt x 171.76187pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
+
+ []
+
+[14 <./UMD01.jpg>]
+<UMD02.jpg, id=97, 574.145pt x 267.49937pt>
 File: UMD02.jpg Graphic file (type jpg)
 <use UMD02.jpg>
-Package pdftex.def Info: UMD02.jpg  used on input line 286.
-(pdftex.def)             Requested size: 382.40794pt x 179.08797pt.
- [14 <./UMD01.jpg> <./UMD02.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 295--296
+Package pdftex.def Info: UMD02.jpg  used on input line 302.
+(pdftex.def)             Requested size: 430.20438pt x 197.1829pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 297--298
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
 
  []
 
-[15] 
+[15 <./UMD02.jpg>] [16] 
 AED: lastpage setting LastPage
-[16] (report_v5.aux)
+[17] (report_v5.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -606,7 +635,7 @@ Here is how much of TeX's memory you used:
  7736 multiletter control sequences out of 15000+200000
  8310 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,43p,1830b,263s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,6n,43p,1830b,263s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Woon Tian Yong/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmbx12.pfb><C:/Users/Woon Tian Yong/AppData/Local/Programs/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Woon Tian Yong/AppData/
@@ -619,9 +648,9 @@ Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/User
 s/Woon Tian Yong/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb><C:/Users/Woon Tian Yong/AppData/Local/Programs/MiKTeX 2.9/fonts/
 type1/public/amsfonts/cm/cmti12.pfb>
-Output written on report_v5.pdf (16 pages, 1401449 bytes).
+Output written on report_v5.pdf (17 pages, 1130850 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
+ 138 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 144 words of extra memory for PDF output out of 10000 (max. 10000000)
 
