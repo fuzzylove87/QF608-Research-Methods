@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.17)  28 APR 2019 22:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.17)  30 APR 2019 14:15
 entering extended mode
 **./report_v5.tex
 (report_v5.tex
@@ -553,11 +553,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 224--225
 
  []
 
-<SMB02.jpg, id=66, 565.6332pt x 256.3176pt>
+<SMB02.jpg, id=66, 565.6332pt x 256.7994pt>
 File: SMB02.jpg Graphic file (type jpg)
 <use SMB02.jpg>
 Package pdftex.def Info: SMB02.jpg  used on input line 230.
-(pdftex.def)             Requested size: 396.7476pt x 176.66426pt.
+(pdftex.def)             Requested size: 396.7476pt x 177.00708pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 235--236
 
@@ -648,7 +648,7 @@ Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/User
 s/Woon Tian Yong/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb><C:/Users/Woon Tian Yong/AppData/Local/Programs/MiKTeX 2.9/fonts/
 type1/public/amsfonts/cm/cmti12.pfb>
-Output written on report_v5.pdf (17 pages, 1130848 bytes).
+Output written on report_v5.pdf (17 pages, 1109138 bytes).
 PDF statistics:
  138 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
