@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.17)  30 APR 2019 14:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.17)  30 APR 2019 21:33
 entering extended mode
 **./report_v5.tex
 (report_v5.tex
@@ -621,9 +621,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 310--311
 
  []
 
-[15 <./UMD02.jpg>] [16] 
+[15 <./UMD02.jpg>]
+Overfull \hbox (10.37306pt too wide) in paragraph at lines 331--332
+[]\OT1/cmr/m/n/12 Fama. Eu-gene F. and Ken-neth R. French. (2015). A five-facto
+r as-set pric-ing model.Journal
+ []
+
+
 AED: lastpage setting LastPage
-[17] (report_v5.aux)
+[16] (report_v5.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -648,9 +654,9 @@ Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/User
 s/Woon Tian Yong/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb><C:/Users/Woon Tian Yong/AppData/Local/Programs/MiKTeX 2.9/fonts/
 type1/public/amsfonts/cm/cmti12.pfb>
-Output written on report_v5.pdf (17 pages, 1109138 bytes).
+Output written on report_v5.pdf (16 pages, 1107975 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
+ 135 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  144 words of extra memory for PDF output out of 10000 (max. 10000000)
 
